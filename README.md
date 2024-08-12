@@ -18,7 +18,7 @@ pip install fade
 
 - Toggling Requests..
 ## Screenshot
-[Image](https://ibb.co/qypz0Mg)
+[Image]([https://ibb.co/qypz0Mg](https://i.ibb.co/5MLdYWj/Screenshot-2024-08-12-195040.png))
 
 Make sure to leave a star!
 
