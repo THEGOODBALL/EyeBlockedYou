@@ -17,7 +17,9 @@ pip install fade
 ## Features
 
 - Toggling Requests..
+## Screenshot
+https://cdn.discordapp.com/attachments/1266974556397113375/1272537025567789086/image.png?ex=66bb55f5&is=66ba0475&hm=e6c963a78680378222b8e90c6b54a8bf8a808423309d7b855b9b5951c1e533ca&
    
-    ^ thats all.
+Make sure to leave a star!
 
 
